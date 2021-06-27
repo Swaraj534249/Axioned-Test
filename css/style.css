@@ -705,6 +705,7 @@ section .title span{
   font-weight: 700;
   justify-content: right;
   transition: var(--transition);
+	float: right;
 }
 
 .contact .contact-form form .submit-btn:hover{
